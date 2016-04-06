@@ -19,11 +19,11 @@ countlyDeviceList = {
 	"iPhone8,2":"iPhone 6s Plus",
 	"iPhone8,4":"iPhone SE",
     //ipod touch
-	"iPod1,1":"iPod Touch 1G",
-	"iPod2,1":"iPod Touch 2G",
-	"iPod3,1":"iPod Touch 3G",
-	"iPod4,1":"iPod Touch 4G",
-	"iPod5,1":"iPod Touch 5G",
+	"iPod1,1":"iPod touch 1G",
+	"iPod2,1":"iPod touch 2G",
+	"iPod3,1":"iPod touch 3G",
+	"iPod4,1":"iPod touch 4G",
+	"iPod5,1":"iPod touch 5G",
 	"iPod7,1":"iPod touch 6G",
     //ipad
 	"iPad1,1":"iPad",
