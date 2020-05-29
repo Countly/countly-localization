@@ -321,3 +321,13 @@ file_filter = plugins/white-labeling/frontend/public/localization/white-labeling
 source_lang = en
 type = UNICODEPROPERTIES
 
+[countly.ip_storeproperties]
+file_filter = plugins/ip_store/frontend/public/localization/ip_store_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.oidcproperties]
+file_filter = plugins/oidc/frontend/public/localization/oidc_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
