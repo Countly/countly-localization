@@ -331,3 +331,43 @@ file_filter = plugins/oidc/frontend/public/localization/oidc_<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
+[countly.activity-mapproperties]
+file_filter = plugins/activity-map/frontend/public/localization/activity-map_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.config-transferproperties]
+file_filter = plugins/config-transfer/frontend/public/localization/config-transfer_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.consolidateproperties]
+file_filter = plugins/consolidate/frontend/public/localization/consolidate_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.data-managerproperties]
+file_filter = plugins/data-manager/frontend/public/localization/data-manager_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.hooksproperties]
+file_filter = plugins/hooks/frontend/public/localization/hooks_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.oidcproperties_1]
+file_filter = translations/countly.oidcproperties_1/<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.oktaproperties]
+file_filter = plugins/okta/frontend/public/localization/okta_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
+[countly.surveysproperties]
+file_filter = plugins/surveys/frontend/public/localization/surveys_<lang>.properties
+source_lang = en
+type = UNICODEPROPERTIES
+
