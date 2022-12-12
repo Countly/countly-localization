@@ -2,357 +2,357 @@
 host = https://www.transifex.com
 
 [countly.ab-testingproperties]
-file_filter = plugins/ab-testing/frontend/public/localization/ab-testing_<lang>.properties
+file_filter = translations/countly.ab-testingproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.active_usersproperties]
-file_filter = plugins/active_users/frontend/public/localization/active_users_<lang>.properties
+file_filter = translations/countly.active_usersproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.alertsproperties]
-file_filter = plugins/alerts/frontend/public/localization/alerts_<lang>.properties
+file_filter = translations/countly.alertsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.assistantproperties]
-file_filter = plugins/assistant/frontend/public/localization/assistant_<lang>.properties
+file_filter = translations/countly.assistantproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.attributionproperties]
-file_filter = plugins/attribution/frontend/public/localization/attribution_<lang>.properties
+file_filter = translations/countly.attributionproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.aws_kinesis_streamproperties]
-file_filter = plugins/aws_kinesis_stream/frontend/public/localization/aws_kinesis_stream_<lang>.properties
+file_filter = translations/countly.aws_kinesis_streamproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.blockproperties]
-file_filter = plugins/block/frontend/public/localization/block_<lang>.properties
+file_filter = translations/countly.blockproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.browserproperties]
-file_filter = plugins/browser/frontend/public/localization/browser_<lang>.properties
+file_filter = translations/countly.browserproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.cognitoproperties]
-file_filter = plugins/cognito/frontend/public/localization/cognito_<lang>.properties
+file_filter = translations/countly.cognitoproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.cohortsproperties]
-file_filter = plugins/cohorts/frontend/public/localization/cohorts_<lang>.properties
+file_filter = translations/countly.cohortsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.compareproperties]
-file_filter = plugins/compare/frontend/public/localization/compare_<lang>.properties
+file_filter = translations/countly.compareproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.compliance-hubproperties]
-file_filter = plugins/compliance-hub/frontend/public/localization/compliance-hub_<lang>.properties
+file_filter = translations/countly.compliance-hubproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.concurrent_usersproperties]
-file_filter = plugins/concurrent_users/frontend/public/localization/concurrent_users_<lang>.properties
+file_filter = translations/countly.concurrent_usersproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.crashes-jiraproperties]
-file_filter = plugins/crashes-jira/frontend/public/localization/crashes-jira_<lang>.properties
+file_filter = translations/countly.crashes-jiraproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.crashesproperties]
-file_filter = plugins/crashes/frontend/public/localization/crashes_<lang>.properties
+file_filter = translations/countly.crashesproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.crash_symbolicationproperties]
-file_filter = plugins/crash_symbolication/frontend/public/localization/crash_symbolication_<lang>.properties
+file_filter = translations/countly.crash_symbolicationproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.dashboardproperties]
-file_filter = frontend/express/public/localization/dashboard/dashboard_<lang>.properties
+file_filter = translations/countly.dashboardproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.dashboardsproperties]
-file_filter = plugins/dashboards/frontend/public/localization/dashboards_<lang>.properties
+file_filter = translations/countly.dashboardsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.data_migrationproperties]
-file_filter = plugins/data_migration/frontend/public/localization/data_migration_<lang>.properties
+file_filter = translations/countly.data_migrationproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.dbviewerproperties]
-file_filter = plugins/dbviewer/frontend/public/localization/dbviewer_<lang>.properties
+file_filter = translations/countly.dbviewerproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.densityproperties]
-file_filter = plugins/density/frontend/public/localization/density_<lang>.properties
+file_filter = translations/countly.densityproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.desktopproperties]
-file_filter = plugins/desktop/frontend/public/localization/desktop_<lang>.properties
+file_filter = translations/countly.desktopproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.drillproperties]
-file_filter = plugins/drill/frontend/public/localization/drill_<lang>.properties
+file_filter = translations/countly.drillproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.enterpriseinfoproperties]
-file_filter = plugins/enterpriseinfo/frontend/public/localization/enterpriseinfo_<lang>.properties
+file_filter = translations/countly.enterpriseinfoproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.errorlogsproperties]
-file_filter = plugins/errorlogs/frontend/public/localization/errorlogs_<lang>.properties
+file_filter = translations/countly.errorlogsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.flowsproperties]
-file_filter = plugins/flows/frontend/public/localization/flows_<lang>.properties
+file_filter = translations/countly.flowsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.formulasproperties]
-file_filter = plugins/formulas/frontend/public/localization/formulas_<lang>.properties
+file_filter = translations/countly.formulasproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.funnelsproperties]
-file_filter = plugins/funnels/frontend/public/localization/funnels_<lang>.properties
+file_filter = translations/countly.funnelsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.geoproperties]
-file_filter = plugins/geo/frontend/public/localization/geo_<lang>.properties
+file_filter = translations/countly.geoproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.groupsproperties]
-file_filter = plugins/groups/frontend/public/localization/groups_<lang>.properties
+file_filter = translations/countly.groupsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.helpproperties_1]
-file_filter = frontend/express/public/localization/help/help_<lang>.properties
+file_filter = translations/countly.helpproperties_1/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.idfa_fixproperties]
-file_filter = plugins/idfa_fix/frontend/public/localization/idfa_fix_<lang>.properties
+file_filter = translations/countly.idfa_fixproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.iotproperties]
-file_filter = plugins/iot/frontend/public/localization/iot_<lang>.properties
+file_filter = translations/countly.iotproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.localeproperties]
-file_filter = plugins/locale/frontend/public/localization/locale_<lang>.properties
+file_filter = translations/countly.localeproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.loggerproperties]
-file_filter = plugins/logger/frontend/public/localization/logger_<lang>.properties
+file_filter = translations/countly.loggerproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.mailproperties]
-file_filter = frontend/express/public/localization/mail/mail_<lang>.properties
+file_filter = translations/countly.mailproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.mobileproperties]
-file_filter = plugins/mobile/frontend/public/localization/mobile_<lang>.properties
+file_filter = translations/countly.mobileproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.onboardingproperties]
-file_filter = plugins/onboarding/frontend/public/localization/onboarding_<lang>.properties
+file_filter = translations/countly.onboardingproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.performance-monitoringproperties]
-file_filter = plugins/performance-monitoring/frontend/public/localization/performance-monitoring_<lang>.properties
+file_filter = translations/countly.performance-monitoringproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.pluginsproperties]
-file_filter = plugins/plugins/frontend/public/localization/plugins_<lang>.properties
+file_filter = translations/countly.pluginsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.plugin-uploadproperties]
-file_filter = plugins/plugin-upload/frontend/public/localization/plugin-upload_<lang>.properties
+file_filter = translations/countly.plugin-uploadproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.populatorproperties]
-file_filter = plugins/populator/frontend/public/localization/populator_<lang>.properties
+file_filter = translations/countly.populatorproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.pre-loginproperties]
-file_filter = frontend/express/public/localization/pre-login/pre-login_<lang>.properties
+file_filter = translations/countly.pre-loginproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.push_approverproperties]
-file_filter = plugins/push_approver/frontend/public/localization/push_approver_<lang>.properties
+file_filter = translations/countly.push_approverproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.pushproperties]
-file_filter = plugins/push/frontend/public/localization/push_<lang>.properties
+file_filter = translations/countly.pushproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.recaptchaproperties]
-file_filter = plugins/recaptcha/frontend/public/localization/recaptcha_<lang>.properties
+file_filter = translations/countly.recaptchaproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.registerproperties]
-file_filter = plugins/register/frontend/public/localization/register_<lang>.properties
+file_filter = translations/countly.registerproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.remote-configproperties]
-file_filter = plugins/remote-config/frontend/public/localization/remote-config_<lang>.properties
+file_filter = translations/countly.remote-configproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.reportsproperties]
-file_filter = plugins/reports/frontend/public/localization/reports_<lang>.properties
+file_filter = translations/countly.reportsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.restrictproperties]
-file_filter = plugins/restrict/frontend/public/localization/restrict_<lang>.properties
+file_filter = translations/countly.restrictproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.retention_segmentsproperties]
-file_filter = plugins/retention_segments/frontend/public/localization/retention_segments_<lang>.properties
+file_filter = translations/countly.retention_segmentsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.revenueproperties]
-file_filter = plugins/revenue/frontend/public/localization/revenue_<lang>.properties
+file_filter = translations/countly.revenueproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.server-statsproperties]
-file_filter = plugins/server-stats/frontend/public/localization/server-stats_<lang>.properties
+file_filter = translations/countly.server-statsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.slipping-away-usersproperties]
-file_filter = plugins/slipping-away-users/frontend/public/localization/slipping-away-users_<lang>.properties
+file_filter = translations/countly.slipping-away-usersproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.sourcesproperties]
-file_filter = plugins/sources/frontend/public/localization/sources_<lang>.properties
+file_filter = translations/countly.sourcesproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.star-ratingproperties]
-file_filter = plugins/star-rating/frontend/public/localization/star-rating_<lang>.properties
+file_filter = translations/countly.star-ratingproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.systemlogsproperties]
-file_filter = plugins/systemlogs/frontend/public/localization/systemlogs_<lang>.properties
+file_filter = translations/countly.systemlogsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.times-of-dayproperties]
-file_filter = plugins/times-of-day/frontend/public/localization/times-of-day_<lang>.properties
+file_filter = translations/countly.times-of-dayproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.two-factor-authproperties]
-file_filter = plugins/two-factor-auth/frontend/public/localization/two-factor-auth_<lang>.properties
+file_filter = translations/countly.two-factor-authproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.updatesproperties]
-file_filter = plugins/updates/frontend/public/localization/updates_<lang>.properties
+file_filter = translations/countly.updatesproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.usersproperties]
-file_filter = plugins/users/frontend/public/localization/users_<lang>.properties
+file_filter = translations/countly.usersproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.viewsproperties]
-file_filter = plugins/views/frontend/public/localization/views_<lang>.properties
+file_filter = translations/countly.viewsproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.webproperties]
-file_filter = plugins/web/frontend/public/localization/web_<lang>.properties
+file_filter = translations/countly.webproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.white-labelingproperties]
-file_filter = plugins/white-labeling/frontend/public/localization/white-labeling_<lang>.properties
+file_filter = translations/countly.white-labelingproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.ip_storeproperties]
-file_filter = plugins/ip_store/frontend/public/localization/ip_store_<lang>.properties
+file_filter = translations/countly.ip_storeproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.oidcproperties]
-file_filter = plugins/oidc/frontend/public/localization/oidc_<lang>.properties
+file_filter = translations/countly.oidcproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.activity-mapproperties]
-file_filter = plugins/activity-map/frontend/public/localization/activity-map_<lang>.properties
+file_filter = translations/countly.activity-mapproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.config-transferproperties]
-file_filter = plugins/config-transfer/frontend/public/localization/config-transfer_<lang>.properties
+file_filter = translations/countly.config-transferproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.consolidateproperties]
-file_filter = plugins/consolidate/frontend/public/localization/consolidate_<lang>.properties
+file_filter = translations/countly.consolidateproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.data-managerproperties]
-file_filter = plugins/data-manager/frontend/public/localization/data-manager_<lang>.properties
+file_filter = translations/countly.data-managerproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.hooksproperties]
-file_filter = plugins/hooks/frontend/public/localization/hooks_<lang>.properties
+file_filter = translations/countly.hooksproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
@@ -362,12 +362,12 @@ source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.oktaproperties]
-file_filter = plugins/okta/frontend/public/localization/okta_<lang>.properties
+file_filter = translations/countly.oktaproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
 [countly.surveysproperties]
-file_filter = plugins/surveys/frontend/public/localization/surveys_<lang>.properties
+file_filter = translations/countly.surveysproperties/<lang>.properties
 source_lang = en
 type = UNICODEPROPERTIES
 
