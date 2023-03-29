@@ -265,12 +265,6 @@ source_file = plugins/oidc/frontend/public/localization/oidc_en.properties
 source_lang = en
 type        = UNICODEPROPERTIES
 
-[o:osoner:p:countly:r:oidcproperties_1]
-file_filter = translations/oidc/frontend/public/localization/oidc_<lang>.properties
-source_file = translations/oidc/frontend/public/localization/oidc_en.properties
-source_lang = en
-type        = UNICODEPROPERTIES
-
 [o:osoner:p:countly:r:oktaproperties]
 file_filter = plugins/okta/frontend/public/localization/okta_<lang>.properties
 source_file = plugins/okta/frontend/public/localization/okta_en.properties
