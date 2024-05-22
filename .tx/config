@@ -6,189 +6,188 @@ file_filter = plugins/ab-testing/frontend/public/localization/ab-testing_<lang>.
 source_file = plugins/ab-testing/frontend/public/localization/ab-testing.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:active_usersproperties]
 file_filter = plugins/active_users/frontend/public/localization/active_users_<lang>.properties
 source_file = plugins/active_users/frontend/public/localization/active_users.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
-
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 [o:osoner:p:countly:r:activity-mapproperties]
 file_filter = plugins/activity-map/frontend/public/localization/activity-map_<lang>.properties
 source_file = plugins/activity-map/frontend/public/localization/activity-map.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:alertsproperties]
 file_filter = plugins/alerts/frontend/public/localization/alerts_<lang>.properties
 source_file = plugins/alerts/frontend/public/localization/alerts.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:assistantproperties]
 file_filter = plugins/assistant/frontend/public/localization/assistant_<lang>.properties
 source_file = plugins/assistant/frontend/public/localization/assistant.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:attributionproperties]
 file_filter = plugins/attribution/frontend/public/localization/attribution_<lang>.properties
 source_file = plugins/attribution/frontend/public/localization/attribution.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:aws_kinesis_streamproperties]
 file_filter = plugins/aws_kinesis_stream/frontend/public/localization/aws_kinesis_stream_<lang>.properties
 source_file = plugins/aws_kinesis_stream/frontend/public/localization/aws_kinesis_stream.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:blockproperties]
 file_filter = plugins/block/frontend/public/localization/block_<lang>.properties
 source_file = plugins/block/frontend/public/localization/block.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:browserproperties]
 file_filter = plugins/browser/frontend/public/localization/browser_<lang>.properties
 source_file = plugins/browser/frontend/public/localization/browser.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:cognitoproperties]
 file_filter = plugins/cognito/frontend/public/localization/cognito_<lang>.properties
 source_file = plugins/cognito/frontend/public/localization/cognito.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:cohortsproperties]
 file_filter = plugins/cohorts/frontend/public/localization/cohorts_<lang>.properties
 source_file = plugins/cohorts/frontend/public/localization/cohorts.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:compareproperties]
 file_filter = plugins/compare/frontend/public/localization/compare_<lang>.properties
 source_file = plugins/compare/frontend/public/localization/compare.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:compliance-hubproperties]
 file_filter = plugins/compliance-hub/frontend/public/localization/compliance-hub_<lang>.properties
 source_file = plugins/compliance-hub/frontend/public/localization/compliance-hub.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:concurrent_usersproperties]
 file_filter = plugins/concurrent_users/frontend/public/localization/concurrent_users_<lang>.properties
 source_file = plugins/concurrent_users/frontend/public/localization/concurrent_users.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:config-transferproperties]
 file_filter = plugins/config-transfer/frontend/public/localization/config-transfer_<lang>.properties
 source_file = plugins/config-transfer/frontend/public/localization/config-transfer.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:consolidateproperties]
 file_filter = plugins/consolidate/frontend/public/localization/consolidate_<lang>.properties
 source_file = plugins/consolidate/frontend/public/localization/consolidate.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:crash_symbolicationproperties]
 file_filter = plugins/crash_symbolication/frontend/public/localization/crash_symbolication_<lang>.properties
 source_file = plugins/crash_symbolication/frontend/public/localization/crash_symbolication.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:crashes-jiraproperties]
 file_filter = plugins/crashes-jira/frontend/public/localization/crashes-jira_<lang>.properties
 source_file = plugins/crashes-jira/frontend/public/localization/crashes-jira.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:crashesproperties]
 file_filter = plugins/crashes/frontend/public/localization/crashes_<lang>.properties
 source_file = plugins/crashes/frontend/public/localization/crashes.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:dashboardproperties]
 file_filter = frontend/express/public/localization/dashboard/dashboard_<lang>.properties
 source_file = frontend/express/public/localization/dashboard/dashboard.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:dashboardsproperties]
 file_filter = plugins/dashboards/frontend/public/localization/dashboards_<lang>.properties
 source_file = plugins/dashboards/frontend/public/localization/dashboards.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:data-managerproperties]
 file_filter = plugins/data-manager/frontend/public/localization/data-manager_<lang>.properties
 source_file = plugins/data-manager/frontend/public/localization/data-manager.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:data_migrationproperties]
 file_filter = plugins/data_migration/frontend/public/localization/data_migration_<lang>.properties
 source_file = plugins/data_migration/frontend/public/localization/data_migration.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:dbviewerproperties]
 file_filter = plugins/dbviewer/frontend/public/localization/dbviewer_<lang>.properties
 source_file = plugins/dbviewer/frontend/public/localization/dbviewer.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:densityproperties]
 file_filter = plugins/density/frontend/public/localization/density_<lang>.properties
 source_file = plugins/density/frontend/public/localization/density.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:desktopproperties]
 file_filter = plugins/desktop/frontend/public/localization/desktop_<lang>.properties
 source_file = plugins/desktop/frontend/public/localization/desktop.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:drillproperties]
 file_filter = plugins/drill/frontend/public/localization/drill_<lang>.properties
 source_file = plugins/drill/frontend/public/localization/drill.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:enterpriseinfoproperties]
 file_filter = plugins/enterpriseinfo/frontend/public/localization/enterpriseinfo_<lang>.properties
@@ -201,313 +200,313 @@ file_filter = plugins/errorlogs/frontend/public/localization/errorlogs_<lang>.pr
 source_file = plugins/errorlogs/frontend/public/localization/errorlogs.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:flowsproperties]
 file_filter = plugins/flows/frontend/public/localization/flows_<lang>.properties
 source_file = plugins/flows/frontend/public/localization/flows.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:formulasproperties]
 file_filter = plugins/formulas/frontend/public/localization/formulas_<lang>.properties
 source_file = plugins/formulas/frontend/public/localization/formulas.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:funnelsproperties]
 file_filter = plugins/funnels/frontend/public/localization/funnels_<lang>.properties
 source_file = plugins/funnels/frontend/public/localization/funnels.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:geoproperties]
 file_filter = plugins/geo/frontend/public/localization/geo_<lang>.properties
 source_file = plugins/geo/frontend/public/localization/geo.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:groupsproperties]
 file_filter = plugins/groups/frontend/public/localization/groups_<lang>.properties
 source_file = plugins/groups/frontend/public/localization/groups.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:helpproperties_1]
 file_filter = frontend/express/public/localization/help/help_<lang>.properties
 source_file = frontend/express/public/localization/help/help.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:hooksproperties]
 file_filter = plugins/hooks/frontend/public/localization/hooks_<lang>.properties
 source_file = plugins/hooks/frontend/public/localization/hooks.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:idfa_fixproperties]
 file_filter = plugins/idfa_fix/frontend/public/localization/idfa_fix_<lang>.properties
 source_file = plugins/idfa_fix/frontend/public/localization/idfa_fix.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:iotproperties]
 file_filter = plugins/iot/frontend/public/localization/iot_<lang>.properties
 source_file = plugins/iot/frontend/public/localization/iot.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:ip_storeproperties]
 file_filter = plugins/ip_store/frontend/public/localization/ip_store_<lang>.properties
 source_file = plugins/ip_store/frontend/public/localization/ip_store.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:localeproperties]
 file_filter = plugins/locale/frontend/public/localization/locale_<lang>.properties
 source_file = plugins/locale/frontend/public/localization/locale.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:loggerproperties]
 file_filter = plugins/logger/frontend/public/localization/logger_<lang>.properties
 source_file = plugins/logger/frontend/public/localization/logger.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:mailproperties]
 file_filter = frontend/express/public/localization/mail/mail_<lang>.properties
 source_file = frontend/express/public/localization/mail/mail.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:mobileproperties]
 file_filter = plugins/mobile/frontend/public/localization/mobile_<lang>.properties
 source_file = plugins/mobile/frontend/public/localization/mobile.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:oidcproperties]
 file_filter = plugins/oidc/frontend/public/localization/oidc_<lang>.properties
 source_file = plugins/oidc/frontend/public/localization/oidc.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:oktaproperties]
 file_filter = plugins/okta/frontend/public/localization/okta_<lang>.properties
 source_file = plugins/okta/frontend/public/localization/okta.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:onboardingproperties]
 file_filter = plugins/onboarding/frontend/public/localization/onboarding_<lang>.properties
 source_file = plugins/onboarding/frontend/public/localization/onboarding.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:performance-monitoringproperties]
 file_filter = plugins/performance-monitoring/frontend/public/localization/performance-monitoring_<lang>.properties
 source_file = plugins/performance-monitoring/frontend/public/localization/performance-monitoring.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:plugin-uploadproperties]
 file_filter = plugins/plugin-upload/frontend/public/localization/plugin-upload_<lang>.properties
 source_file = plugins/plugin-upload/frontend/public/localization/plugin-upload.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:pluginsproperties]
 file_filter = plugins/plugins/frontend/public/localization/plugins_<lang>.properties
 source_file = plugins/plugins/frontend/public/localization/plugins.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:populatorproperties]
 file_filter = plugins/populator/frontend/public/localization/populator_<lang>.properties
 source_file = plugins/populator/frontend/public/localization/populator.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:pre-loginproperties]
 file_filter = frontend/express/public/localization/pre-login/pre-login_<lang>.properties
 source_file = frontend/express/public/localization/pre-login/pre-login.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:push_approverproperties]
 file_filter = plugins/push_approver/frontend/public/localization/push_approver_<lang>.properties
 source_file = plugins/push_approver/frontend/public/localization/push_approver.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:pushproperties]
 file_filter = plugins/push/frontend/public/localization/push_<lang>.properties
 source_file = plugins/push/frontend/public/localization/push.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:recaptchaproperties]
 file_filter = plugins/recaptcha/frontend/public/localization/recaptcha_<lang>.properties
 source_file = plugins/recaptcha/frontend/public/localization/recaptcha.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:registerproperties]
 file_filter = plugins/register/frontend/public/localization/register_<lang>.properties
 source_file = plugins/register/frontend/public/localization/register.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:remote-configproperties]
 file_filter = plugins/remote-config/frontend/public/localization/remote-config_<lang>.properties
 source_file = plugins/remote-config/frontend/public/localization/remote-config.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:reportsproperties]
 file_filter = plugins/reports/frontend/public/localization/reports_<lang>.properties
 source_file = plugins/reports/frontend/public/localization/reports.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:restrictproperties]
 file_filter = plugins/restrict/frontend/public/localization/restrict_<lang>.properties
 source_file = plugins/restrict/frontend/public/localization/restrict.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:retention_segmentsproperties]
 file_filter = plugins/retention_segments/frontend/public/localization/retention_segments_<lang>.properties
 source_file = plugins/retention_segments/frontend/public/localization/retention_segments.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:revenueproperties]
 file_filter = plugins/revenue/frontend/public/localization/revenue_<lang>.properties
 source_file = plugins/revenue/frontend/public/localization/revenue.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:server-statsproperties]
 file_filter = plugins/server-stats/frontend/public/localization/server-stats_<lang>.properties
 source_file = plugins/server-stats/frontend/public/localization/server-stats.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:slipping-away-usersproperties]
 file_filter = plugins/slipping-away-users/frontend/public/localization/slipping-away-users_<lang>.properties
 source_file = plugins/slipping-away-users/frontend/public/localization/slipping-away-users.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:sourcesproperties]
 file_filter = plugins/sources/frontend/public/localization/sources_<lang>.properties
 source_file = plugins/sources/frontend/public/localization/sources.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:star-ratingproperties]
 file_filter = plugins/star-rating/frontend/public/localization/star-rating_<lang>.properties
 source_file = plugins/star-rating/frontend/public/localization/star-rating.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:surveysproperties]
 file_filter = plugins/surveys/frontend/public/localization/surveys_<lang>.properties
 source_file = plugins/surveys/frontend/public/localization/surveys.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:systemlogsproperties]
 file_filter = plugins/systemlogs/frontend/public/localization/systemlogs_<lang>.properties
 source_file = plugins/systemlogs/frontend/public/localization/systemlogs.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:times-of-dayproperties]
 file_filter = plugins/times-of-day/frontend/public/localization/times-of-day_<lang>.properties
 source_file = plugins/times-of-day/frontend/public/localization/times-of-day.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:two-factor-authproperties]
 file_filter = plugins/two-factor-auth/frontend/public/localization/two-factor-auth_<lang>.properties
 source_file = plugins/two-factor-auth/frontend/public/localization/two-factor-auth.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:updatesproperties]
 file_filter = plugins/updates/frontend/public/localization/updates_<lang>.properties
 source_file = plugins/updates/frontend/public/localization/updates.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:usersproperties]
 file_filter = plugins/users/frontend/public/localization/users_<lang>.properties
 source_file = plugins/users/frontend/public/localization/users.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:viewsproperties]
 file_filter = plugins/views/frontend/public/localization/views_<lang>.properties
 source_file = plugins/views/frontend/public/localization/views.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:webproperties]
 file_filter = plugins/web/frontend/public/localization/web_<lang>.properties
 source_file = plugins/web/frontend/public/localization/web.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
 [o:osoner:p:countly:r:white-labelingproperties]
 file_filter = plugins/white-labeling/frontend/public/localization/white-labeling_<lang>.properties
 source_file = plugins/white-labeling/frontend/public/localization/white-labeling.properties
 source_lang = en
 type        = UNICODEPROPERTIES
-lang_map    = de_DE:de,es_ES:es,fr_FR:fr,it_IT:it,ja_JP:ja,ko_KR:ko,pt_BR:pt,ru_RU:ru,tr_TR:tr,zh_CN:zh,lv_LV:lv,fa_IR:ir,nb_NO:no,nl_NL:nl,pl_PL:pl,zh_CN:zh
+lang_map    = de_DE: de, es_ES: es, fr_FR: fr, it_IT: it, ja_JP: ja, ko_KR: ko, pt_BR: pt, ru_RU: ru, tr_TR: tr, zh_CN: zh, lv_LV: lv, fa_IR: ir, nb_NO: no, nl_NL: nl, pl_PL: pl
 
